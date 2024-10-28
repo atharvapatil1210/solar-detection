@@ -15,11 +15,7 @@ it is an also detect but having accuracy is very high but this we build model ha
 
 Note : Some error in code....
 ```
-Here’s a `README.md` file tailored for your project on detecting solar panels in satellite images using the SegFormer model, based on the problem statement you provided.
 
----
-
-```markdown
 # Solar Panel Detection in Satellite Images
 
 This project focuses on detecting solar panels in satellite images, a crucial task for energy monitoring. We employed the SegFormer-b1 model along with data augmentation techniques to develop an effective segmentation model. The initial results demonstrate promise, with a Mean Intersection over Union (IoU) of 0.0133. Future improvements will explore advanced models, larger datasets, and optimized training methods.
